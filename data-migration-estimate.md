@@ -81,11 +81,11 @@ Customers: 5000
 Orders: 10000
 Blog: 100
 
-ET: $1100
 
 Scope:
-- Prepare wordpress plugins
-- Write automation migration scipts
+- Prepare wordpress plugin to export woocommerce products, categories, orders, customers to CSV, blog to CSV
+- Write automation migration scipts to convert data in CSV files and import to Shopify store.
+- Testing all data after run migration: Check result, check customer can login on shopify with woocommerce password after migration.
 
 
 
