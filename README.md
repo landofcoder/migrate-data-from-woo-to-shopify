@@ -1,5 +1,6 @@
-# migrate-data-from-woo-to-shopify
-migrate data from woocommerce to shopify
+# Migrate data from Woocommerce to Shopify Headless - Hydrogen
+
+Migrate data from woocommerce to shopify
 
 == Description == Landofcoder WooCommerce to Shopify Migration plugin allows you to migrate your products, orders, customers, passwords and other data from WooCommerce to Shopify automatically.
 
